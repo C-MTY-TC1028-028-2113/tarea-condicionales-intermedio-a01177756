@@ -1,6 +1,7 @@
 def main():
     # Escribe tu código abajo de esta línea
     c = int(input("Introduce los cm: "))
+    
     if c<100:
         print(c,"cm")
     elif c<1000:
